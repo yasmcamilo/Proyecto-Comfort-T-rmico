@@ -57,7 +57,7 @@ Se encuentra en la carpeta:
 
 ## Evidencia en video
 Puedes visualizar la demostración del sistema en funcionamiento en el siguiente enlace:  
-[Ver video de evidencia](https://drive.google.com/file/d/1kWO-LGuVo3j3tjFcgR2cpi4Vd6uw_uBH/view?usp=sharing)
+[Ver video de evidencia]([https://drive.google.com/file/d/1kWO-LGuVo3j3tjFcgR2cpi4Vd6uw_uBH/view?usp=sharing](https://drive.google.com/file/d/1mD-agCDlbOqcmdfLZw1Kc1wvjIQ7GC3c/view?usp=sharing))
 
 
 ## Autores y créditos
